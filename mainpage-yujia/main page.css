@@ -1,0 +1,45 @@
+#navbarSupportedContent ul{
+    width: 100%;
+}
+
+@media(max-width:1024px){
+    .container{
+        display: inline-block;
+        
+    }
+}
+/* form{
+    padding-left:0px !important;
+}  */
+
+.section-nav{
+    background-color: #aaaaaa;
+}
+
+@media(min-width:1921px){
+.max {
+    max-width: 1800px;
+    margin: auto;
+}}
+/* ------swiper */
+html, body {
+    position: relative;
+    height: 100%;
+  }
+  body {
+    background: #eee;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color:#000;
+    margin: 0;
+    padding: 0;
+  }
+  .swiper-container {
+    width: 100%;
+    height: 100%;
+  }
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+}
